@@ -1,0 +1,20 @@
+# Ignore specific files you want to keep local
+secret_config.txt
+my-private-notes.md
+
+# Ignore compilation files and executables (e.g., C++ outputs)
+*.exe
+*.out
+*.o
+
+# Ignore entire folders
+node_modules/
+build/
+sandbox-testing/
+01basicreact
+01vitereact
+02counter
+03tailwindprops
+Blog
+customReact
+Practice
